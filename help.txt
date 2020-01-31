@@ -1,0 +1,5 @@
+
+Real-Life Project - Descriptive Analytics of FIFA 19 Players
+
+In this project, we will take a real-life dataset of FIFA19 players and do descriptive analytics on it. 
+We will go through the process of how data is understood, transformed, and how we get answers and insights from our data.
